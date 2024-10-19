@@ -1,5 +1,7 @@
 # 2 / 3-body-problem
 
+## Update: Added Universe Sandbox
+
 ![2 Body Problem](assets/2body.gif)
 
 ![3 Body Problem](assets/3body.gif)
@@ -40,6 +42,22 @@ I also created 2-body problem where I used Langragian Equation
 2. Clone this repo
 
 3. Run python code
+
+### Universe Sandbox
+
+<p align="center">
+  <img src="assets/3-body-problem-us.gif" alt="3 Body Problem in Universe Sandbox" width="700"/>
+  <br>
+  <em>Same measurements in Universe Sandbox</em>
+</p>
+<br><br>
+
+Star 1 _(which camera follows)_ has mass and radius close to <ins>Sun</ins>.<br>
+Star 2 _(same size as Star 1)_ has mass and radius close to <ins>Alpha Centauri B</ins>.<br>
+Star 3 _(smaller than both)_ has mass and radius close to <ins>Procyon B</ins>.
+
+<br>
+Speed = 4.81 day/sec
 
 ### Learning Resources:
 
