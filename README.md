@@ -14,7 +14,6 @@ Anyway,
 
 ### Explaination:
 
-You can check definition on Wikipedia.
 Three bodies orbit each other, the resulting dynamical system is chaotic for most initial conditions. Because there are no solvable equations for most three-body systems, the only way to predict the motions of the bodies is to estimate them using numerical methods.
 
 But heres simple explaination -
