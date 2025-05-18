@@ -1,7 +1,7 @@
 # 2 / 3-body-problem
 
 A Python simulation of gravitational dynamics in 2-body and 3-body systems using numerical methods.
-Explore chaos, orbital motion, and physics through interactive visuals — inspired by The Three-Body Problem novel series.
+Explore chaos, orbital motion, and physics through interactive visuals
 
 ## Update: Added Universe Sandbox
 
